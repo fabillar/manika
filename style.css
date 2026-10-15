@@ -54,7 +54,7 @@ button{font:inherit}
 .wave.hero-wave path{fill:var(--cream)}
 
 /* ABOUT */
-.s-about{background:var(--cream);padding:0 20rem 6rem;position:relative}
+.s-about{background:var(--cream);padding:0 20rem 6rem;position:relative;margin-top:-1px}
 .about{position:relative;width:866rem;display:grid;grid-template-columns:322rem 1fr;column-gap:6rem;align-items:start}
 .about-photo{width:322rem;height:auto;margin-left:6rem;margin-top:-30rem;position:relative;z-index:4}
 .about-text{padding-top:16rem}
